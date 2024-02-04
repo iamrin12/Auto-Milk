@@ -1,0 +1,4 @@
+_G.Milk = true
+while _G.Milk and wait() do
+workspace.MainEvent.AddMilk:FireServer()
+end
